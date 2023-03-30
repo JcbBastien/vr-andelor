@@ -1,0 +1,25 @@
+{
+   "name": "andelorvr",
+   "homepage": "https://github.com/JcbBastien/vr-andelor#readme",
+   "version": "1.0.0",
+   "description": "A  virtual reality project for Andelor",
+   "author": "jcbast",
+   "license": "ISC",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/JcbBastien/vr-andelor.git"
+   },
+   "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "serve": "vite preview",
+      "deploy": "gh-pages -d dist"
+   },
+   "devDependencies": {
+      "vite": "^4.2.1"
+   },
+   "dependencies": {
+      "gh-pages": "^5.0.0",
+      "three": "^0.151.0"
+   }
+}
