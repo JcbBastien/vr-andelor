@@ -4,13 +4,7 @@ A  virtual reality project for Andelor
 
 Usage
 
-1. Clone repository
-
-```
-git clone <clone repo>
-```
-
-2. Install and Run
+1. Install and Run
 
 ```
 npm install
